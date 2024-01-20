@@ -5,7 +5,7 @@ import com.project.finances.model.entity.Meta;
 
 import java.util.List;
 
-public class MetaImplementation implements MetaService {
+public class MetaImplements implements MetaService {
     @Override
     public Meta save(Meta meta) {
         return null;
