@@ -13,7 +13,7 @@ public interface MetaService {
 
     public List<Meta> findAll();
 
-    public List<Meta> findByName(String name);
+    public Meta findByName(String name);
 
     public void delete(Long id);
 

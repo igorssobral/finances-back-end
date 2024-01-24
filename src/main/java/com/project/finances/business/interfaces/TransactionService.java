@@ -1,6 +1,5 @@
 package com.project.finances.business.interfaces;
 
-import com.project.finances.model.entity.Meta;
 import com.project.finances.model.entity.Transaction;
 
 import java.util.List;
