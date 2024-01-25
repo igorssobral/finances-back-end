@@ -13,7 +13,7 @@ public interface TransactionService {
 
     public List<Transaction> findAll();
 
-    public List<Transaction> findByName(String name);
+    public Transaction findByName(String name);
 
     public void delete(Long id);
 
